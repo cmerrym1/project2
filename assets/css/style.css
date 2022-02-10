@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html { 
+  background: url(../images/Homepage.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
